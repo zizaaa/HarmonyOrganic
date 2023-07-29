@@ -9,7 +9,7 @@ import PropTypes from 'prop-types';
 const Home = (props) => {
   return (
     <>
-        <section className="pt-5">
+        <section className="pt-0 pt-md-5">
           <div className="row mt-5 align-items-center">
             <div className="col-md">
               <img src={LeaftImg2}/>
